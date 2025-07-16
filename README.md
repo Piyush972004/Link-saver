@@ -1,7 +1,7 @@
 ## Link Saver
 
 ## 🌐 Live Preview
-[![Live Preview](https://linksav.netlify.app/))
+![Live Preview](https://linksav.netlify.app/)
 
 
 
